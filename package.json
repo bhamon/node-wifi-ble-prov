@@ -8,6 +8,7 @@
   "dependencies": {
     "ajv": "7.2.1",
     "dbus-next": "0.9.1",
+    "extend": "3.0.2",
     "minimist": "1.2.5",
     "pino": "6.11.2"
   }
